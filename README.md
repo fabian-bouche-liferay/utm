@@ -4,7 +4,7 @@ https://en.wikipedia.org/wiki/UTM_parameters
 
 This module adds the UTM parameters to the Liferay session and adds them
 as workflow context parameters when a Liferay form is submitted so that
-you can use them like this is a workflow groovy script:
+you can use them like this is in a workflow groovy script:
 
 ```
 System.out.println("Entering workflow");
