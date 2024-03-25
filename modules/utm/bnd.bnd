@@ -1,0 +1,4 @@
+Bundle-Name: utm
+Bundle-SymbolicName: com.liferay.samples.fbo.utm
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.samples.fbo.utm.api
