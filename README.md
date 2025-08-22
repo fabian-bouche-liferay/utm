@@ -35,3 +35,11 @@ protection against session fixation phishing attempts).
 
 This property white lists `utm_session_attribute` so that it is not lost
 during the transition to the new session.
+
+## Modern java
+
+Requires 
+
+```
+--add-opens=java.base/sun.util.calendar=ALL-UNNAMED
+```
